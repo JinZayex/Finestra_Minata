@@ -7,7 +7,8 @@
 2. Utilizza il terminale e cambia la directory in
   *your/directory/path/Finestra_Minata*
 3. Esegui il comando
-   *python main.py*
+ ```python
+   python main.py
 
 **Un prospettiva sul funzioamento della mano-puntatore**
 <br>
